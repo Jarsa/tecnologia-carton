@@ -6,3 +6,8 @@
 	path = tecnologia-carton
 	url = git@git.vauxoo.com:jarsa/tecnologia-carton.git
 	branch = 13.0
+
+[submodule "oca/server-backend"]
+	path = oca/server-backend
+	url = git@github.com:oca/server-backend.git
+	branch = 13.0
