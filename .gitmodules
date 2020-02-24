@@ -2,3 +2,7 @@
 	path = odoo-utilities
 	url = git@git.vauxoo.com:Jarsa/odoo-utilities.git
 	branch = 13.0
+[submodule "tecnologia-carton"]
+	path = tecnologia-carton
+	url = git@git.vauxoo.com:jarsa/tecnologia-carton.git
+	branch = 13.0
