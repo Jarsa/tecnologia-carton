@@ -11,3 +11,7 @@
 	path = oca/server-backend
 	url = git@github.com:oca/server-backend.git
 	branch = 13.0
+[submodule "mexico"]
+	path = mexico
+	url = git@git.vauxoo.com:jarsa/mexico.git
+	branch = 13.0
