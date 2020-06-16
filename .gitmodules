@@ -2,15 +2,12 @@
 	path = odoo-utilities
 	url = git@git.vauxoo.com:Jarsa/odoo-utilities.git
 	branch = 13.0
+
 [submodule "tecnologia-carton"]
 	path = tecnologia-carton
 	url = git@git.vauxoo.com:jarsa/tecnologia-carton.git
 	branch = 13.0
 
-[submodule "oca/server-backend"]
-	path = oca/server-backend
-	url = git@github.com:oca/server-backend.git
-	branch = 13.0
 [submodule "mexico"]
 	path = mexico
 	url = git@git.vauxoo.com:jarsa/mexico.git
@@ -19,4 +16,9 @@
 [submodule "web"]
 	path = web
 	url = git@github.com:OCA/web.git
+	branch = 13.0
+
+[submodule "server-backend"]
+	path = server-backend
+	url = git@github.com:jarsa/server-backend.git
 	branch = 13.0
